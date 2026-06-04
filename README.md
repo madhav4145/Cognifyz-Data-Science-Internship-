@@ -48,8 +48,8 @@ RESULTS
 
 The project includes visualizations, statistical insights, and machine learning models for restaurant data analysis.
 
+AUTHOR
 
-Author
 Madhavan
 Data Science Intern
 Cognifyz Technologies
